@@ -1,0 +1,42 @@
+_repo: Mrs.-Cliff-s-Yacht_30848
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Forestier, A. (Amédée)
+    aliases:
+    - Forestier, Amédée
+    - Forestier, A. (Amedee)
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '34030'
+    url: http://www.gutenberg.org/2009/agents/34030
+covers:
+- cover_type: archival
+  image_path: 30848-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Francis Richard
+    - Stockton, Frank R. (Frank Richard)
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+description: 'Sequel to The Adventures of Captain Horn, #12190.'
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yachts -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcc 'PS'
+title: Mrs. Cliff's Yacht
+url: http://www.gutenberg.org/ebooks/30848
