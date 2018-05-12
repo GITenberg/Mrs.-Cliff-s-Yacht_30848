@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/221
     wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
 description: 'Sequel to The Adventures of Captain Horn, #12190.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30848#Mrs.-Cliff-s-Yacht
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
 identifiers:
